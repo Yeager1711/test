@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "cl":"box",
+      "image": "https://happyhow-cdn.sgp1.digitaloceanspaces.com/images/mobile/1531577475971158016_mio0.jpeg",
+      "name":"polo style 1",
+      "price_new":"350.000đ",
+      "price_old":"420.000đ"
+    },
+
+    {
+      "id": 2,
+      "cl":"box",
+      "image": "https://happyhow-cdn.sgp1.digitaloceanspaces.com/images/mobile/1531577475971158016_mio0.jpeg",
+      "name":"polo style 2",
+      "price_new":"350.000đ",
+      "price_old":"420.000đ"
+    },
+
+    {
+      "id": 3,
+      "cl":"box",
+      "image": "https://happyhow-cdn.sgp1.digitaloceanspaces.com/images/mobile/1531577475971158016_mio0.jpeg",
+      "name":"polo style 3",
+      "price_new":"350.000đ",
+      "price_old":"420.000đ"
+    },
+
+    {
+      "id": 4,
+      "cl":"box",
+      "image": "https://happyhow-cdn.sgp1.digitaloceanspaces.com/images/mobile/1531577475971158016_mio0.jpeg",
+      "name":"polo style 4",
+      "price_new":"350.000đ",
+      "price_old":"420.000đ"
+    }
+
+    
+]
